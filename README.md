@@ -1,4 +1,4 @@
-**1 - npm i -g peer**
+**1 - npm i**
 
 **2 - npm i -g peer**
 
