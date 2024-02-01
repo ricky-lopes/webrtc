@@ -1,5 +1,7 @@
-run npm i -g peer
+**1 - npm i -g peer**
 
-run peerjs --port 3001
+**2 - npm i -g peer**
 
-run npm run devStart
+**3 - peerjs --port 3001**
+
+**4 - npm run devStart**
